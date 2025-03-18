@@ -1,4 +1,4 @@
-Got it! Below is the **updated README.md** with a **Low-Level Design (LLD) - Factory Pattern** section, but without any code. It maintains a clear, structured, and professional format.
+
 
 ---
 
