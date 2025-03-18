@@ -12,8 +12,6 @@ This project is a **data processing pipeline** built in **Databricks** using **P
 ## **📊 Features**
 - **Ingest transaction data** from Databricks Catalog.
 - **Apply transformations** using PySpark.
-- **Filter customers** who purchased AirPods after buying an iPhone.
-- **Join with customer data** for enriched insights.
 - **Export results** to:
   - ✅ **Delta Table** for scalable storage and querying.
   - ✅ **DBFS** (as CSV/Parquet) for external access.
@@ -33,13 +31,8 @@ This project is a **data processing pipeline** built in **Databricks** using **P
 ```
 databricks-project/
 │── notebooks/                # Databricks Notebooks
-│   ├── ingestion.py          # Loads raw data from Databricks Catalog
-│   ├── transformation.py     # Processes and filters data
-│   ├── export.py             # Saves processed data to Delta Table & DBFS
-│── scripts/                  # Python scripts
 │── data/                     # Sample input data (if needed)
 │── README.md                 # Project documentation
-│── .gitignore                # Files to ignore in Git
 ```
 
 ---
@@ -93,20 +86,7 @@ If you'd like to contribute:
 - **Apache Spark**
 - **Factory Pattern Design Principles**
 
----
-
-## **📜 License**
-This project is licensed under the **MIT License**.
 
 ---
 
-## **👨‍💻 Author**
-- **Your Name**
-- **GitHub**
-- **LinkedIn**
 
-✅ **Your Databricks project is well-documented and ready for GitHub!** 🚀🔥  
-
----
-
-Let me know if you'd like any further modifications! 😊
