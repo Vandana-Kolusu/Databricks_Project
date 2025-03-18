@@ -1,7 +1,5 @@
 
 
----
-
 # **🚀 Databricks Data Processing Pipeline**
 
 ## **📌 Project Overview**
@@ -82,11 +80,9 @@ If you'd like to contribute:
 ---
 
 ## **🔗 Useful Links**
-- **Databricks Docs**
-- **Apache Spark**
-- **Factory Pattern Design Principles**
-
+- **[Databricks Documentation](https://docs.databricks.com/)**
+- **[Apache Spark](https://spark.apache.org/)**
+- **[Factory Pattern Design Principles](https://refactoring.guru/design-patterns/factory-method)**
 
 ---
-
 
